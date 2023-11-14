@@ -1,12 +1,12 @@
 {
-  "name": "vite-mui-ts",
+  "name": "activity-feed",
   "version": "1.0.0",
   "description": "Test task for CORETEKA",
   "license": "MIT",
   "author": "emrecil <danylko91@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/emre-cil/vite-mui-ts.git"
+    "url": "https://github.com/volodymyr-danylko/activity-feed"
   },
   "scripts": {
     "dev": "vite --open",
